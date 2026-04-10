@@ -39,7 +39,7 @@
 
 - Computer Science student at **Midwestern State University** with a **4.0 GPA**
 - Undergraduate researcher connected to **EURECA** and **NASA SUITS**
-- Building **HappyHour**, a social mobile app with **React Native + Expo + TypeScript + Supabase** (Private Repo)
+- Building **HappyHour**, a social mobile app with **React Native + Expo + TypeScript + Supabase**
 - Interested in **mobile development, systems, spatial data, and applied AI**
 - Built an **8-bit VHDL microprocessor** from scratch and enjoy low-level systems work
 - Student-athlete, tutor, and builder who likes turning ideas into real products
@@ -50,7 +50,7 @@
 
 | Project | Description | Tech |
 | --- | --- | --- |
-| **HappyHour** | Social mobile app for discovering local events, specials, and connecting with friends | React Native, Expo, TypeScript, Supabase (Private Repo) |
+| **HappyHour** (Private Repo) | Social mobile app for discovering local events, specials, and connecting with friends | React Native, Expo, TypeScript, Supabase (Private Repo) |
 | **[EURECA IV Website](https://github.com/noahbustard/EURECA_IV_WEBSITE)** | Research website built for scholarship and undergraduate research presentation work | Next.js, TypeScript, Tailwind CSS, Supabase |
 | **[LPD 7986](https://github.com/noahbustard/LPD_7986)** | Custom 8-bit microprocessor with 10 x86-inspired instructions designed in structural VHDL | VHDL, Quartus Prime |
 | **[4545 Spatial Data](https://github.com/noahbustard/4545_Spatial_Data)** | Spatial data structures, mapping, and analysis coursework repo | Python, Jupyter, Spatial Data |
