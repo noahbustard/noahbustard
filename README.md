@@ -37,16 +37,16 @@
 
 ## 🌱 About Me
 
-- 🎓 Computer Science student at **Midwestern State University** with a **4.0 GPA**
-- 🔬 Undergraduate researcher connected to **EURECA** and **NASA SUITS**
-- 📱 Building **HappyHour**, a social mobile app with **React Native + Expo + TypeScript + Supabase**
-- ⚙️ Interested in **mobile development, systems, spatial data, and applied AI**
-- 🧠 Built an **8-bit VHDL microprocessor** from scratch and enjoy low-level systems work
-- 🏈 Student-athlete, tutor, and builder who likes turning ideas into real products
+- Computer Science student at **Midwestern State University** with a **4.0 GPA**
+- Undergraduate researcher connected to **EURECA** and **NASA SUITS**
+- Building **HappyHour**, a social mobile app with **React Native + Expo + TypeScript + Supabase** (Private Repo)
+- Interested in **mobile development, systems, spatial data, and applied AI**
+- Built an **8-bit VHDL microprocessor** from scratch and enjoy low-level systems work
+- Student-athlete, tutor, and builder who likes turning ideas into real products
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | Description | Tech |
 | --- | --- | --- |
@@ -59,7 +59,7 @@
 
 ---
 
-## 📚 Coursework & Technical Depth
+## Coursework & Technical Depth
 
 ### Software Engineering
 - Object-Oriented Programming
@@ -83,7 +83,7 @@
 
 ---
 
-## 💼 Experience
+## Experience
 
 - **Software Engineer Intern, Apex Auto**
   - Built automation tools for inventory, pricing, reporting, and diagnostics
@@ -95,7 +95,7 @@
 
 ---
 
-## 🏆 Honors & Recognition
+## Honors & Recognition
 
 - Big Ten Distinguished Scholar
 - Academic All-Big Ten
@@ -106,7 +106,7 @@
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=noahbustard&theme=radical&hide_border=true" alt="GitHub Streak" />
@@ -122,7 +122,7 @@
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:noahbustard@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noahbustard)
@@ -130,6 +130,4 @@
 
 ---
 
-<p align="center">
-  <i>Always building. Always learning. Always looking for the next tough problem to solve.</i>
-</p>
+
