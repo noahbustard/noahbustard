@@ -50,12 +50,12 @@
 
 | Project | Description | Tech |
 | --- | --- | --- |
-| **[HappyHour](https://github.com/noahbustard/HappyHour)** | Social mobile app for discovering local events, specials, and connecting with friends | React Native, Expo, TypeScript, Supabase |
+| **HappyHour** | Social mobile app for discovering local events, specials, and connecting with friends | React Native, Expo, TypeScript, Supabase (Private Repo) |
 | **[EURECA IV Website](https://github.com/noahbustard/EURECA_IV_WEBSITE)** | Research website built for scholarship and undergraduate research presentation work | Next.js, TypeScript, Tailwind CSS, Supabase |
 | **[LPD 7986](https://github.com/noahbustard/LPD_7986)** | Custom 8-bit microprocessor with 10 x86-inspired instructions designed in structural VHDL | VHDL, Quartus Prime |
 | **[4545 Spatial Data](https://github.com/noahbustard/4545_Spatial_Data)** | Spatial data structures, mapping, and analysis coursework repo | Python, Jupyter, Spatial Data |
 | **Automotive Diagnostic Decision Support System** | Python-based diagnostic workflow to reduce ambiguity in fault-code analysis and improve repair decisions | Python, Systems Design |
-| **Transactional Sales & Inventory Management System** | Database-backed application for managing inventory, transactions, and reporting with integrity constraints | Java, SQL |
+| **[Transactional Sales & Inventory Management System](https://github.com/noahbustard/CSCE156Project)** | Database-backed application for managing inventory, transactions, and reporting with integrity constraints | Java, SQL |
 
 ---
 
