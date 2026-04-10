@@ -10,7 +10,7 @@
 
 ---
 
-## 🛠️ Tech Toolbox
+## Tech Toolbox
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
@@ -35,7 +35,7 @@
 
 ---
 
-## 🌱 About Me
+## About Me
 
 - Computer Science student at **Midwestern State University** with a **4.0 GPA**
 - Undergraduate researcher connected to **EURECA** and **NASA SUITS**
@@ -113,11 +113,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=noahbustard&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=noahbustard&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noahbustard&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=noahbustard&theme=radical" alt="Top Languages" />
 </p>
 
 ---
