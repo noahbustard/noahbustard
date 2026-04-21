@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Noah Bustard 👋</h1>
+<h1 align="center">Hi there, I'm Noah Bustard</h1>
 
 <p align="center">
   <b>Computer Science Student</b> • <b>Full Stack & Mobile Developer</b> • <b>Undergraduate Researcher</b>
@@ -12,24 +12,30 @@
 
 ## Tech Toolbox
 
+## Tech Toolbox
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000?logo=next.js&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
 ![React Native](https://img.shields.io/badge/React%20Native-20232A?logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000?logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
-![VHDL](https://img.shields.io/badge/VHDL-543978?logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
+![ASP.NET MVC](https://img.shields.io/badge/ASP.NET%20MVC-512BD4?logo=dotnet&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?logo=dotnet&logoColor=white)
+![.NET Framework](https://img.shields.io/badge/.NET%20Framework-512BD4?logo=dotnet&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)
+![VHDL](https://img.shields.io/badge/VHDL-543978?logoColor=white)
+![Intel Quartus Prime](https://img.shields.io/badge/Intel%20Quartus%20Prime-0071C5?logo=intel&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 
@@ -51,7 +57,7 @@
 | Project | Description | Tech |
 | --- | --- | --- |
 | **HappyHour** (Private Repo) | Social mobile app for discovering local events, specials, and connecting with friends | React Native, Expo, TypeScript, Supabase (Private Repo) |
-| **[EURECA IV Website](https://github.com/noahbustard/EURECA_IV_WEBSITE)** | Research website built for scholarship and undergraduate research presentation work | Next.js, TypeScript, Tailwind CSS, Supabase |
+| **[EURECA IV Website](https://github.com/noahbustard/EURECA_IV_WEBSITE)** | Research website built for scholarship and undergraduate research presentation work | Next.js, TypeScript, Tailwind CSS |
 | **[LPD 7986](https://github.com/noahbustard/LPD_7986)** | Custom 8-bit microprocessor with 10 x86-inspired instructions designed in structural VHDL | VHDL, Quartus Prime |
 | **[4545 Spatial Data](https://github.com/noahbustard/4545_Spatial_Data)** (Personal Respository for Class) | Spatial data structures, mapping, and analysis coursework repo | Python, Jupyter, Spatial Data |
 | **Automotive Diagnostic Decision Support System** | Python-based diagnostic workflow to reduce ambiguity in fault-code analysis and improve repair decisions | Python, Systems Design |
