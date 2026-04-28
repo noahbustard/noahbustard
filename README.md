@@ -10,7 +10,6 @@
 
 ---
 
-## Tech Toolbox
 
 ## Tech Toolbox
 
