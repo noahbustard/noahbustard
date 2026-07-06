@@ -55,17 +55,15 @@
 
 ## Featured Projects
 
-| Project | Description | Tech |
-| --- | --- | --- |
-| **EMR-Based IV Medication Administration Virtual Simulation** | Healthcare-focused simulation turning EMR medication orders into an interactive workflow for infusion training and research analysis | Next.js, TypeScript, React |
-| **Automotive Diagnostic Decision Support System** | Diagnostic workflow designed to guide fault-code decisions, reduce ambiguity, and improve repair outcomes | Python, Systems Design |
-| **Transactional Sales & Inventory Management System** | Database-backed application for sales processing, inventory management, reporting, and data integrity | Java, SQL |
-| **Endzone Landscaping Automated Workflows & CRM System** | Automated quote generation, invoice creation, client approvals, email follow-up, job tracking, and customer communication | Make.com, Makeform, Microsoft 365, CRM Systems |
-| **[EURECA IV Website](https://github.com/noahbustard/EURECA_IV_WEBSITE)** | Research website built for scholarship and undergraduate research presentation work | Next.js, TypeScript, Tailwind CSS |
-| **[LPD 7986](https://github.com/noahbustard/LPD_7986)** | Custom 8-bit microprocessor with 10 x86-inspired instructions designed in structural VHDL | VHDL, Quartus Prime |
-| **[Transactional Sales & Inventory Management System](https://github.com/noahbustard/CSCE156Project)** | Java and SQL project focused on transactions, sales reporting, and database integrity | Java, SQL |
+| Project                                                                                                           | Description                                                                                                                                 | Tech                                           |
+| ----------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
+| **[EMR-Based IV Medication Administration Virtual Simulation](https://github.com/noahbustard/IV_SIMULATION_APP)** | Healthcare-focused simulation turning EMR medication orders into an interactive workflow for infusion training and research analysis        | Next.js, TypeScript, React                     |
+| **Automotive Diagnostic Decision Support System**                                                                 | Diagnostic workflow designed to guide fault-code decisions, reduce ambiguity, and improve repair outcomes                                   | Python, Systems Design                         |
+| **[Transactional Sales & Inventory Management System](https://github.com/noahbustard/CSCE156Project)**            | Database-backed Java and SQL application focused on sales processing, inventory management, reporting, transactions, and database integrity | Java, SQL                                      |
+| **Endzone Landscaping Automated Workflows & CRM System**                                                          | Automated quote generation, invoice creation, client approvals, email follow-up, job tracking, and customer communication                   | Make.com, Makeform, Microsoft 365, CRM Systems |
+| **[EURECA IV Website](https://github.com/noahbustard/EURECA_IV_WEBSITE)**                                         | Research website built for scholarship and undergraduate research presentation work                                                         | Next.js, TypeScript, Tailwind CSS              |
+| **[LPD 7986](https://github.com/noahbustard/LPD_7986)**                                                           | Custom 8-bit microprocessor with 10 x86-inspired instructions designed in structural VHDL                                                   | VHDL, Quartus Prime                            |
 
----
 
 ## Coursework & Technical Depth
 
